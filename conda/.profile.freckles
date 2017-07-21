@@ -1,0 +1,4 @@
+- vars:
+    pkg_mgr: conda
+  packages:
+    - pandoc

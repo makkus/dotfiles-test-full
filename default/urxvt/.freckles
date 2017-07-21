@@ -1,0 +1,3 @@
+pkgs:
+   nix: rxvt-unicode-with-perl-with-unicode3-with-plugins
+   deb: rxvt-unicode-256color
