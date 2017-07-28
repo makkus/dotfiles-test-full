@@ -1,4 +1,4 @@
 - vars:
     pkg_mgr: conda
-#    packages:
-#      - pandoc
+    packages:
+      - pandoc
