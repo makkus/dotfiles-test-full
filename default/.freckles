@@ -1,5 +1,4 @@
-vars:
- - packages:
-   - emacs
+packages:
+  - emacs
 
  
