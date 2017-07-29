@@ -1,5 +1,0 @@
-- vars:
-    packages:
-      - testpackage
-    test_var: test_val2
-
