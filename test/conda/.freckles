@@ -1,0 +1,6 @@
+- vars:
+    pkg_mgr: conda
+    packages:
+      - testpackage
+    test_var: test_val2
+
