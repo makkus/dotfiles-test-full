@@ -1,4 +1,6 @@
-- vars:
-    pkg_mgr: conda
-    packages:
-      - pandoc
+vars:
+  freckle_profile:
+    - dotfiles
+  pkg_mgr: conda
+  packages:
+    - pandoc

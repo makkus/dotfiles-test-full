@@ -1,3 +1,5 @@
 vars:
+  freckle_profiles:
+    - dotfiles
   packages:
     - emacs
