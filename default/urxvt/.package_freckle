@@ -1,4 +1,4 @@
 pkgs:
    nix: rxvt-unicode-with-perl-with-unicode3-with-plugins
    Debian: rxvt-unicode-256color
-   other: ignore
+   other: omit
