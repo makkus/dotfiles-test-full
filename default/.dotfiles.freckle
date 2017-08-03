@@ -1,3 +1,7 @@
 vars:
   packages:
-    - emacs
+    - emacs:
+        pkgs:
+          apt: emacs
+          conda: ignore
+
