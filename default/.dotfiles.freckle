@@ -3,5 +3,5 @@ vars:
     - emacs:
         pkgs:
           apt: emacs
-          conda: ignore
+          other: ignore
 
