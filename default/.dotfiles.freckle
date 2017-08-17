@@ -1,9 +1,0 @@
-vars:
-  pkg_mgrs:
-    - conda
-    - nix
-  packages:
-    - emacs:
-        pkgs:
-          conda: ignore
-

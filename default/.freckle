@@ -1,0 +1,5 @@
+- dotfiles:
+     pkg_mgr: auto
+     packages:
+       - gawk
+       - emacs

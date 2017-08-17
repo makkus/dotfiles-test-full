@@ -1,4 +1,4 @@
-vars:
+dotfiles:
   pkg_mgr: conda
   packages:
     - pandoc
